@@ -1,0 +1,132 @@
+
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="resume.css">
+</head>
+
+<body>
+	<div class="full">
+		<div class="left">
+			<div class="image">
+				<img src=
+"C:\Users\DELL\Desktop\education.jpg"
+					alt="gfg-logo"
+					style="width:100px;height:100px;">
+			</div>
+			<div class="Contact">
+				<h2>Contact</h2>
+				<p><b>Email id:</b>sampathmidde2018@gmail.com</p>
+				<p><b>Email id:</b>22f1001483@ds.study.itm.ac.in</p>
+				<p><b>Email id:</b>bteh25139.22@bitmesra.ac.in</p>
+				<p><b>Mobile no :</b>7993895494</p>
+			</div>
+			<div class="Skills">
+				<h2>Skills</h2>
+				<ul>
+					<li><b>Programming Languages :
+					Python,html,c, C++</b></li>
+					
+				</ul>
+			</div>
+			<div class="Language">
+				<h2>Language</h2>
+				<ul>
+					<li>English</li>
+					<li>Hindi</li>
+					<li>Telugu</li>
+				</ul>
+			</div>
+			<div class="Hobbies">
+				<h2>Hobbies</h2>
+				<ul>
+					<li>Playing cod,pubg</li>
+					<li>Reading books</li>
+					<li> Pizza making</li>
+					<li>Danccing</li>
+					<li>learning coding</li>
+				</ul>
+			</div>
+		</div>
+		
+			<div class="Education">
+				<h2>Education</h2>
+				<table>
+					<tr>
+						<th>INSTITUTE NAME</th>
+						<th>Passing year </th>
+						<th>percentage/cgpa</th>
+					</tr>
+					<tr>
+						<td>JAWAHAR NAVODAYA VIDYALAYA</td>
+						<td>2020</td>
+						<td>95</td>
+					</tr>
+					<tr>
+						<td>FITJEE JUNIOR COLLAGE</td>
+						<td>2022</td>
+						<td>89%</td>
+					</tr>
+					<tr>
+						<td>BIRLA INSITUTIE OF TECNOLOGY MESRA</td>
+						<td>2026</td>
+						<td>10.0</td>
+					</tr>
+				</table>
+			</div>
+			   <div class="STRENGTH">
+				<h2>STRENGTH</h2>
+				<ul>
+					<li>Strong Communication Skills</li>
+					<li>positive attitude</li>
+					<li>problem soloving skills</li>
+					<li>critical thinking</li>
+					<li>Team work</li>
+					<li>Adaptability</li>
+				</ul>
+			</div>
+		</div>
+		<div class="Weakness">
+			<h2>Weakness</h2>
+			<ul>
+				<li>foodie</li>
+			</ul>
+		</div>
+		<div class="Summary">
+			<h2>Summary</h2>
+			<p>I created an HTML resume project to differentiate myself, demonstrate my technical skills,
+				and make a lasting impression on potential employers or clients in today's digital landscape.    
+				By leveraging HTML, I was able to showcase my experience and abilities online.
+				 Ensuring easy accessibility for recruiters and hiring managers. 
+                The interactive elements, such as animations and hyperlinks, added a dynamic touch, capturing the attention of viewers.
+				 Customizing the layout, typography, and color scheme allowed me to create a visually appealing and 
+				 unique resume that reflected my personal brand.
+				 This project also served as evidence of my proficiency in web development, 
+				 highlighting my ability to utilize HTML and CSS effectively. 
+				  Additionally, having an HTML resume enabled me to easily update and 
+				  modify my information whenever necessary, ensuring that my resume was always up to date. 
+				  Overall, this project provided me with an edge in the competitive job market,  
+				  enabling me to stand out and leave a memorable impression on potential employers or clients.
+
+			</p>
+		</div>
+	</div>
+			<div class="project">
+				<ul>
+					<li>
+						<h2>Project</h2>
+						<p>This Resume project based on html 
+						</p>
+					</li>
+					
+				</ul>
+			</div>
+		</div>
+	</div>
+</body>
+
+</html>
